@@ -8,13 +8,13 @@ This project is an implementation of use of Tree data structure for data storage
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone [https://link-to-project](https://github.com/Sudh-mandhare/AudioBook-Management-System-using-Trees)
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd AudioBook-Management-System-using-Trees
 ```
 
 * Be sure to download the corresponding input.txt file
@@ -43,4 +43,4 @@ Also a special mention to Sumedh Ganpatye for his valuable feedback.
 ## Future Enhancements
 
 * The efficient data retrival can be more enhances by usin B Trees or B+ Trees
-* Creating a frontend application integrating with this backend application to create a full - fledged audio-book management sysytem
+* Creating a frontend application integrating with this backend application to create a full - fledged audio-book management system
